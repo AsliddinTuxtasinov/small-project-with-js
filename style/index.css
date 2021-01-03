@@ -21,7 +21,7 @@ body{
 #plus:hover, #reset:hover, #minus:hover{
     position: relative;
     border-radius: 40%;
-    background-color: rgb(247, 182, 18); /* mashu qator ishlamayapti */
+    background-color: rgb(247, 182, 18);
     transition: 1.1s;
     transform: scale(1.5);
 }
