@@ -1,0 +1,30 @@
+body{
+    box-sizing: border-box;
+    margin-top: 15%;
+    margin-left: 40%;}
+#cont{
+    position: absolute;
+    border:5px solid black;
+    outline: none;
+    background-color:rgb(114, 135, 163);}
+#input-cont{
+    outline: none;
+    position: relative;
+    margin: 50px 25px 50px 25px;}
+#buttons{
+    text-align: center;
+    margin: 5px;
+    width: 100%;}
+#plus, #reset, #minus, #myinput{
+    background-color: rgb(23, 223, 223);
+    outline: none;}
+/* bu lar ishlaganda shakli buzilib ketyapti */
+button:hover{
+    position: relative;
+    border-radius: 40%;
+    background-color: rgb(247, 182, 18); /* mashu qator ishlamayapti */
+    font-size: 20px;}
+#myinput:hover{
+    font-size: large;
+    background-color: black;
+    color: blanchedalmond;}
